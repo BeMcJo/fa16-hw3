@@ -1,4 +1,4 @@
-class TeachersController < ApplicationController
+class StudentsController < ApplicationController
   def new
     @placeholder_course = 'hallabunga'
   end
